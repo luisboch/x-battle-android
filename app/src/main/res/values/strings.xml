@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">X-Battle</string>
+
+    <string name="main_appTitle">X-Battle</string>
+    <string name="main_appStart">Play</string>
+    <string name="main_higthScores">Hightscores</string>
+    <string name="higthScores_view">Ver</string>
+    <string name="higthScores_pts">Pts</string>
+    <string name="higthScores_play">Play</string>
+    <string name="higthScores_menu">Menu</string>
+</resources>
